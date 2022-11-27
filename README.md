@@ -1,6 +1,6 @@
 <h1 align="center">Hi There ✌🏻 , I'm Sriragavi Parthasarathy</h1>
 <h3 align="center">A passionate Software developer</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Computer+Science+Engineer;I+love+to+read+books)](https://git.io/typing-svg)
 - 🔭 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
 - 🌱 I’m currently learning **DevOps And AWS**
