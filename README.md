@@ -1,4 +1,4 @@
-<h1 align="center">Hi There ✌🏻 , I'm **Sriragavi Parthasarathy**</h1>
+<h1 align="center">Hi There ✌🏻 , I'm *Sriragavi Parthasarathy*</h1>
 <h2 align="center">A passionate Software developer</h2>
 
 - 🔭 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
