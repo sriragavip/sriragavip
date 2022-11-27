@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✌🏻 , I'm Sriragavi Parthasarathy</h1>
+<h1 align="center">Hi There ✌🏻 , I'm Sriragavi Parthasarathy</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 - 🔭 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriragavip&show_icons=true&locale=en" alt="sriragavip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriragavip&" alt="sriragavip" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4123D5&lines=Until+next+time!+Thankyou!)](https://git.io/typing-svg)
