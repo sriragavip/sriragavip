@@ -1,5 +1,5 @@
-<h1 align="center">Hi There ✌🏻 , I'm Sriragavi Parthasarathy</h1>
-<h2 align="center">A passionate Software developer</h2>
+<h1 align="center">Hi There ✌🏻 , I'm Sriragavi </h1>
+<h2 align="center">A Passionate Software developer 👩🏻‍💻 </h2>
 <div align="center">
 <img src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" align="center" style="width: 50%" />
 </div>  
@@ -8,14 +8,14 @@
 
 
 ### About Me  
-- 🔭 I’m currently studying In Chennai Institute Of Technology
- BE Computer Science  
+- 🔭 I’m currently studying In **Chennai Institute Of Technology
+ BE Computer Science**
   
 
-- **🌱 I’m currently learning DevOps And AWS**  
+- 🌱 I’m currently learning **DevOps And AWS**  
   
 
-- ❓ Ask me about anything related to Web And Mobile Development  
+- ❓ Ask me about anything related to **Web And Mobile Development**  
   
 
 <br/>  
@@ -35,8 +35,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>  
-
-
 
 ### Mobile App Development   
 <div align="center">  
