@@ -16,8 +16,7 @@
   
 
 - ❓ Ask me about anything related to **Web And Mobile Development**  
-
--📫 How to reach me **sriragavip@gmail.com**
+- 📫 How to reach me **sriragavip@gmail.com**
   
 
 <br/>  
