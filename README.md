@@ -136,7 +136,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sriragavip&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <table>
-  </td><td valign="top" width="50%">
+  </td><td valign="top" width="20%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriragavip&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
