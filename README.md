@@ -1,7 +1,7 @@
 <h1 align="center">Hey There ✌🏻 , I'm Sriragavi </h1>
 <h2 align="center">A Passionate Software developer 👩🏻‍💻 And DevOps Engineer ♾ </h2>
 <div align="center">
-<img src="https%3A%2F%2Fmedium.com%2Fideas-at-igenius%2Fwhy-devops-more-a-culture-than-a-job-19dacf077ed1&psig=AOvVaw0tyoSR0SYq5leqSsRlmXA5&ust=1670768037506000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjxmpGe7_sCFQAAAAAdAAAAABAI)" align="center" style="width: 50%" />
+<<img src="/Pictures/devops.gif" alt="description of gif" />  align="center" style="width: 50%" />
 </div>  
   
 
