@@ -1,7 +1,7 @@
 <h1 align="center">Hey There ✌🏻 , I'm Sriragavi </h1>
 <h2 align="center">A Passionate Software developer 👩🏻‍💻 And DevOps Engineer ♾ </h2>
 <div align="center">
-<img src="/Pictures/devops.gif" alt="description of gif" />  align="center" style="width: 50%" />
+<img src="/Pictures/devops.gif" alt="description of gif" />
 </div>  
   
 
