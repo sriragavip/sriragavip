@@ -3,8 +3,8 @@
 <div align="center">
 
   
-  ![devops](https://user-images.githubusercontent.com/110242376/206882150-a61ae826-bd5f-4e48-9691-9361ae94fdb1.gif)
-
+  ![devops](https://user-images.githubusercontent.com/110242376/206882150-a61ae826-bd5f-4e48-9691-9361ae94fdb1.gif) 
+<img align="center" style="width: 50%" />
 </div>  
 
 
