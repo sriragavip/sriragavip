@@ -15,14 +15,14 @@
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>
 <img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-01.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-02.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-03.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-04.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-05.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-06.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-07.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-09.gif)" width="40px"></img>
-<img src="[https://leetcode.com/static/images/badges/2024/gif/2024-02.gif](https://leetcode.com/static/images/badges/2023/gif/2023-08.gif)" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="40px"></img>
 
 
 <br>
