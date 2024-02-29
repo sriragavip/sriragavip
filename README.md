@@ -11,7 +11,6 @@
 <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="40px"></img>
