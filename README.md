@@ -27,8 +27,6 @@
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" width="40px"></img>
 
-
-<br>
 <br>
 <a href="https://leetcode.com/sriragavip24032004/">
     <img src="https://leetcard.jacoblin.cool/sriragavip24032004?theme=dark&font=Goldman&ext=activityy"></img>
