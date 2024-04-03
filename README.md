@@ -40,7 +40,6 @@
 
 - **LeetCode:** [sriragavip24032004](https://leetcode.com/sriragavip24032004/)
 - **GeeksforGeeks:** [sriragavip](https://auth.geeksforgeeks.org/user/sriragavip/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
-- **Codechef:** [sriragavip](https://www.codechef.com/users/sriragavip)
 - **CodeForces:** [SRIRAGAVIP](https://codeforces.com/profile/SRIRAGAVI)
 - **HackerRank:** [sriragavip_cse21](https://www.hackerrank.com/profile/sriragavip_cse21)
 
